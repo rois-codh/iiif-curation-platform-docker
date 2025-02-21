@@ -5,8 +5,8 @@ externalurl=http://192.168.0.158/cp
 
 start_port=9001
 
-jk_git_url="https://github.com/IllDepence/JSONkeeper.git"
-ci_git_url="https://github.com/IllDepence/Canvas-Indexer.git"
+jk_git_url="https://github.com/rois-codh/JSONkeeper.git"
+ci_git_url="https://github.com/rois-codh/Canvas-Indexer.git"
 cv_zip_url="https://codh.rois.ac.jp/software/download/IIIFCurationViewer_latest.zip"
 cf_zip_url="https://codh.rois.ac.jp/software/download/IIIFCurationFinder_latest.zip"
 cm_zip_url="https://codh.rois.ac.jp/software/download/IIIFCurationManager_latest.zip"

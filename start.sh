@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker-compose --project-name `cat ./proj_name` start
+docker compose start --project-name `cat ./proj_name`

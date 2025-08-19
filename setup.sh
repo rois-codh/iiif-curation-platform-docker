@@ -151,4 +151,4 @@ echo -n "curation_platform_$start_port" > proj_name
 
 ./reset.sh
 
-docker compose up --project-name `cat ./proj_name` --build --no-start
+docker compose up --build --no-start

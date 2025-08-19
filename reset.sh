@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker container prune -f --filter=label=`cat ./proj_name`
+docker container prune -f --filter=label=iiif-curation-platform-docker
